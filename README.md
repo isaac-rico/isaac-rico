@@ -82,7 +82,7 @@ Curious about the intersection of technology, people, and business.
 
 I enjoy understanding how things work, finding connections between disciplines, and building things that make a difference.
 
-Can also catch me on [osu!](https://osu.ppy.sh/users/14818527) and [league](https://op.gg/lol/summoners/na/aokona-002?queue_type=SOLORANKED)
+You can also catch me on [osu!](https://osu.ppy.sh/users/14818527) and [League of Legends](https://op.gg/lol/summoners/na/aokona-002?queue_type=SOLORANKED)!
 
 ---
 
