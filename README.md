@@ -28,7 +28,7 @@ I'm interested in the bigger picture—how teams operate, where problems emerge,
 AI-powered event operations with tool calling, APIs, persistent context, and workflow automation.
 
 **Event Analytics Platform** · *Data Engineering*  
-Unified event data from Cvent and Eventbrite using Python, BigQuery, and Looker Studio.
+Unified event data from Cvent and Eventbrite using Python, Google BigQuery, and Google Data Studio.
 
 **Mano Po — Robotic Arm** · *Embedded Systems*  
 Hardware integration, microcontroller control, and wireless communication for a robotic arm.
