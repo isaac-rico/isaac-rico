@@ -86,6 +86,6 @@ I enjoy understanding how things work, finding connections between disciplines, 
 
 ### Let's Connect
 
-[GitHub](https://github.com/isaac-rico) · [LinkedIn](https://linkedin.com/in/isaac-a-rico) · [Portfolio](https://isaacrico.com)
+[LinkedIn](https://linkedin.com/in/isaac-a-rico) · [Portfolio](https://isaacrico.com)
 
 *Always building. Always learning.*
